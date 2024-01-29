@@ -1,0 +1,16 @@
+pandas 
+notebook
+numpy
+scikit-learn
+matplotlib
+python-box==6.0.2 #  ConfigBox helps our dictionary keys to be accessed as it's object, instead of doing d['key'] we can do d.key
+pyYAML # Read and write yaml files
+ensure==1.0.2 # To force annotations
+joblib
+types-PyYAML
+Flask
+Flask-Cors
+imblearn
+ipykernel
+seaborn
+-e .
